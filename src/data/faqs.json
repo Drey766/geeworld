@@ -1,0 +1,8 @@
+[
+  { "id": "1", "q": "Do you deliver countrywide?", "a": "Yes — wherever you are in Kenya, we'll get your order to you. Delivery times vary by location, and we'll keep you posted along the way." },
+  { "id": "2", "q": "Can I visit the shop in person?", "a": "Absolutely! We're at Rasumal House, Shop 3F,17, 3rd Floor. Open Monday to Saturday, 9:30am to 7pm. Come try before you buy." },
+  { "id": "3", "q": "What if I'm not sure about sizing?", "a": "Call or DM us at 0702 319 029 before ordering. We'll help you find the right fit so you're not stuck guessing." },
+  { "id": "4", "q": "How do I pay?", "a": "M-Pesa through the website is quickest and most secure, or call us to arrange payment directly." },
+  { "id": "5", "q": "What kind of clothing do you stock?", "a": "Shirts, hoodies & sweatshirts, jackets & coats, suits, dresses, women's fashion, and seasonal essentials — a bit of everything for every occasion." },
+  { "id": "6", "q": "What if an item I want is out of stock?", "a": "DM or call us — we restock regularly and can let you know when your size or item is back." }
+]
